@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: white;
+    line-height: 30px;
+    word-spacing: 5px;
+    
+}
+p{
+    font-size:1.3em;
+}
+img.ay{
+    width:300px;
+    height:300px;
+    float:right;
+}
+li{
+    font-size:1.3em;
+}
+a{
+    color: rgba(143, 126, 140, 0.719);
+   
+}
+em{
+    font-size: 1.2em;
+}
