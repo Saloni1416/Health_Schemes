@@ -14,10 +14,12 @@ img.ay{
     float:right;
 }
 li{
-    list-style-type:decimal;
     font-size:1.3em;
 }
 a{
     color: rgba(143, 126, 140, 0.719);
    
+}
+em{
+    font-size: 1.2em;
 }
